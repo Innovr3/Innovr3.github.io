@@ -2,4 +2,4 @@
 Personal Page to showcase work
 
 ## Pages
-1. [tedxtheheritageschool/] [TEDx Website]
+1. [TEDx Website](tedxtheheritageschool/)
