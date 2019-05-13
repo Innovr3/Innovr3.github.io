@@ -1,4 +1,4 @@
-# Innovr3.github.io
+# entrohpy.github.io
 Personal Page to showcase work
 
 ## Pages
